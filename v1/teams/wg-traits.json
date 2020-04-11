@@ -1,0 +1,73 @@
+{
+  "name": "wg-traits",
+  "kind": "working_group",
+  "subteam_of": "compiler",
+  "members": [
+    {
+      "name": "Niko Matsakis",
+      "github": "nikomatsakis",
+      "github_id": 155238,
+      "is_lead": true
+    },
+    {
+      "name": "Wilco Kusee",
+      "github": "detrumi",
+      "github_id": 5758008,
+      "is_lead": false
+    },
+    {
+      "name": "Jack Huey",
+      "github": "jackh726",
+      "github_id": 31162821,
+      "is_lead": false
+    },
+    {
+      "name": "Ben Lewis",
+      "github": "skinny121",
+      "github_id": 7391596,
+      "is_lead": false
+    },
+    {
+      "name": "Jane Lusby",
+      "github": "yaahc",
+      "github_id": 1993852,
+      "is_lead": false
+    }
+  ],
+  "alumni": [],
+  "github": {
+    "teams": [
+      {
+        "org": "rust-lang",
+        "name": "wg-traits",
+        "members": [
+          5758008,
+          7391596,
+          155238,
+          1993852,
+          31162821
+        ]
+      },
+      {
+        "org": "rust-lang-nursery",
+        "name": "wg-traits",
+        "members": [
+          5758008,
+          7391596,
+          155238,
+          1993852,
+          31162821
+        ]
+      }
+    ]
+  },
+  "website_data": {
+    "name": "Traits working group",
+    "description": "Revamping the rustc trait implementation to follow the Chalk approach",
+    "page": "wg-traits",
+    "email": null,
+    "repo": "https://rust-lang.github.io/compiler-team/working-groups/traits/",
+    "discord": null,
+    "weight": 0
+  }
+}

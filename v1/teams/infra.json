@@ -1,0 +1,105 @@
+{
+  "name": "infra",
+  "kind": "team",
+  "subteam_of": "operations",
+  "members": [
+    {
+      "name": "Aidan Hobson Sayers",
+      "github": "aidanhs",
+      "github_id": 1050652,
+      "is_lead": true
+    },
+    {
+      "name": "Pietro Albini",
+      "github": "pietroalbini",
+      "github_id": 2299951,
+      "is_lead": true
+    },
+    {
+      "name": "kennytm",
+      "github": "kennytm",
+      "github_id": 103023,
+      "is_lead": false
+    },
+    {
+      "name": "Mark Rousskov",
+      "github": "Mark-Simulacrum",
+      "github_id": 5047365,
+      "is_lead": false
+    },
+    {
+      "name": "Nell Shamrell-Harrington",
+      "github": "nellshamrell",
+      "github_id": 813007,
+      "is_lead": false
+    },
+    {
+      "name": "Sean Griffin",
+      "github": "sgrif",
+      "github_id": 1529387,
+      "is_lead": false
+    },
+    {
+      "name": "Jake Goulding",
+      "github": "shepmaster",
+      "github_id": 174509,
+      "is_lead": false
+    }
+  ],
+  "alumni": [],
+  "github": {
+    "teams": [
+      {
+        "org": "rust-lang",
+        "name": "infra",
+        "members": [
+          5047365,
+          1529387,
+          103023,
+          1050652,
+          813007,
+          2299951,
+          174509
+        ]
+      },
+      {
+        "org": "rust-lang-ci",
+        "name": "infra",
+        "members": [
+          5047365,
+          1529387,
+          103023,
+          1050652,
+          813007,
+          2299951,
+          174509
+        ]
+      },
+      {
+        "org": "rust-lang-nursery",
+        "name": "infra",
+        "members": [
+          5047365,
+          1529387,
+          103023,
+          1050652,
+          813007,
+          2299951,
+          174509
+        ]
+      }
+    ]
+  },
+  "website_data": {
+    "name": "Infrastructure team",
+    "description": "Managing the infrastructure supporting the Rust project itself, including CI, releases, bots, and metrics",
+    "page": "infra",
+    "email": "infra@rust-lang.org",
+    "repo": null,
+    "discord": {
+      "channel": "#infra",
+      "url": "https://discord.gg/AxXmxzN"
+    },
+    "weight": 0
+  }
+}

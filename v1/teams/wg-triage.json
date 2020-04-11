@@ -1,0 +1,149 @@
+{
+  "name": "wg-triage",
+  "kind": "working_group",
+  "subteam_of": "operations",
+  "members": [
+    {
+      "name": "Dylan DPC",
+      "github": "Dylan-DPC",
+      "github_id": 12371125,
+      "is_lead": true
+    },
+    {
+      "name": "Alex Macleod",
+      "github": "Alexendoo",
+      "github_id": 1830331,
+      "is_lead": false
+    },
+    {
+      "name": "Ben Striegel",
+      "github": "bstrie",
+      "github_id": 865233,
+      "is_lead": false
+    },
+    {
+      "name": "Shivam Singhal",
+      "github": "championshuttler",
+      "github_id": 22130317,
+      "is_lead": false
+    },
+    {
+      "name": "Ferdia A. McKeogh",
+      "github": "chocol4te",
+      "github_id": 8290136,
+      "is_lead": false
+    },
+    {
+      "name": "Edmilson Ferreira da Silva",
+      "github": "edmilsonefs",
+      "github_id": 498938,
+      "is_lead": false
+    },
+    {
+      "name": "Allen Bui",
+      "github": "fairingrey",
+      "github_id": 31905380,
+      "is_lead": false
+    },
+    {
+      "name": "Hoàng Đức Hiếu",
+      "github": "hdhoang",
+      "github_id": 12537,
+      "is_lead": false
+    },
+    {
+      "name": "Joel Parmer",
+      "github": "joelpalmer",
+      "github_id": 8049061,
+      "is_lead": false
+    },
+    {
+      "name": "John Simon",
+      "github": "JohnCSimon",
+      "github_id": 1977159,
+      "is_lead": false
+    },
+    {
+      "name": "Yuki Okushi",
+      "github": "JohnTitor",
+      "github_id": 25030997,
+      "is_lead": false
+    },
+    {
+      "name": "Hasan",
+      "github": "JuanPotato",
+      "github_id": 9531780,
+      "is_lead": false
+    },
+    {
+      "name": "Chase Wilson",
+      "github": "Kixiron",
+      "github_id": 25047011,
+      "is_lead": false
+    },
+    {
+      "name": "Luis Manarang",
+      "github": "ProgrammaticNajel",
+      "github_id": 17925396,
+      "is_lead": false
+    },
+    {
+      "name": "Ryan Holderfield",
+      "github": "rholderfield",
+      "github_id": 13798348,
+      "is_lead": false
+    },
+    {
+      "name": "Sonia",
+      "github": "soniasingla",
+      "github_id": 33036742,
+      "is_lead": false
+    },
+    {
+      "name": "Gagandeep Singh",
+      "github": "totsteps",
+      "github_id": 6944095,
+      "is_lead": false
+    }
+  ],
+  "alumni": [],
+  "github": {
+    "teams": [
+      {
+        "org": "rust-lang",
+        "name": "wg-triage",
+        "members": [
+          25030997,
+          25047011,
+          17925396,
+          33036742,
+          9531780,
+          12537,
+          1977159,
+          12371125,
+          1830331,
+          22130317,
+          865233,
+          6944095,
+          31905380,
+          498938,
+          8049061,
+          13798348,
+          8290136
+        ]
+      }
+    ]
+  },
+  "website_data": {
+    "name": "Triage working group",
+    "description": "Triaging repositories under the rust-lang organisation",
+    "page": "wg-triage",
+    "email": null,
+    "repo": null,
+    "discord": {
+      "channel": "#triage-wg",
+      "url": "https://discord.gg/e6Q3cvu"
+    },
+    "weight": 0
+  }
+}

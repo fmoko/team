@@ -1,0 +1,68 @@
+{
+  "name": "docs-rs",
+  "kind": "team",
+  "subteam_of": "devtools",
+  "members": [
+    {
+      "name": "Joshua Nelson",
+      "github": "jyn514",
+      "github_id": 23638587,
+      "is_lead": true
+    },
+    {
+      "name": "Pietro Albini",
+      "github": "pietroalbini",
+      "github_id": 2299951,
+      "is_lead": true
+    },
+    {
+      "name": "Guillaume Gomez",
+      "github": "GuillaumeGomez",
+      "github_id": 3050060,
+      "is_lead": false
+    },
+    {
+      "name": "Onur Aslan",
+      "github": "onur",
+      "github_id": 345828,
+      "is_lead": false
+    }
+  ],
+  "alumni": [],
+  "github": {
+    "teams": [
+      {
+        "org": "rust-lang",
+        "name": "docs-rs",
+        "members": [
+          2299951,
+          3050060,
+          23638587,
+          345828
+        ]
+      },
+      {
+        "org": "rust-lang-nursery",
+        "name": "docs-rs",
+        "members": [
+          2299951,
+          3050060,
+          23638587,
+          345828
+        ]
+      }
+    ]
+  },
+  "website_data": {
+    "name": "Docs.rs team",
+    "description": "Docs.rs, the documentation hosting service for crates",
+    "page": "docs-rs",
+    "email": null,
+    "repo": null,
+    "discord": {
+      "channel": "#docs-rs",
+      "url": "https://discord.gg/f7mTXPW"
+    },
+    "weight": 0
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "name": "crates-io",
+  "kind": "team",
+  "subteam_of": null,
+  "members": [
+    {
+      "name": "Justin Geibel",
+      "github": "jtgeibel",
+      "github_id": 22186,
+      "is_lead": true
+    },
+    {
+      "name": "Sean Griffin",
+      "github": "sgrif",
+      "github_id": 1529387,
+      "is_lead": true
+    },
+    {
+      "name": "Ashley Williams",
+      "github": "ashleygwilliams",
+      "github_id": 1163554,
+      "is_lead": false
+    },
+    {
+      "name": "Carol Nichols",
+      "github": "carols10cents",
+      "github_id": 193874,
+      "is_lead": false
+    },
+    {
+      "name": "Tatsuyuki Ishi",
+      "github": "ishitatsuyuki",
+      "github_id": 12389383,
+      "is_lead": false
+    },
+    {
+      "name": "Yuki Okushi",
+      "github": "JohnTitor",
+      "github_id": 25030997,
+      "is_lead": false
+    },
+    {
+      "name": "Josh Triplett",
+      "github": "joshtriplett",
+      "github_id": 162737,
+      "is_lead": false
+    },
+    {
+      "name": "Ricardo Mendes",
+      "github": "locks",
+      "github_id": 32344,
+      "is_lead": false
+    },
+    {
+      "name": "Pietro Albini",
+      "github": "pietroalbini",
+      "github_id": 2299951,
+      "is_lead": false
+    },
+    {
+      "name": "Sven Marnach",
+      "github": "smarnach",
+      "github_id": 249196,
+      "is_lead": false
+    },
+    {
+      "name": "Steve Klabnik",
+      "github": "steveklabnik",
+      "github_id": 27786,
+      "is_lead": false
+    },
+    {
+      "name": "Tobias Bieniek",
+      "github": "Turbo87",
+      "github_id": 141300,
+      "is_lead": false
+    },
+    {
+      "name": "Without Boats",
+      "github": "withoutboats",
+      "github_id": 9063376,
+      "is_lead": false
+    }
+  ],
+  "alumni": [],
+  "github": {
+    "teams": [
+      {
+        "org": "rust-lang",
+        "name": "crates-io",
+        "members": [
+          141300,
+          1163554,
+          2299951,
+          25030997,
+          9063376,
+          193874,
+          162737,
+          1529387,
+          27786,
+          249196,
+          32344,
+          12389383,
+          22186
+        ]
+      }
+    ]
+  },
+  "website_data": {
+    "name": "Crates.io team",
+    "description": "Managing operations, development, and official policies for crates.io",
+    "page": "crates-io",
+    "email": null,
+    "repo": null,
+    "discord": {
+      "channel": "#crates-io-team",
+      "url": "https://discord.gg/Rbq8W5K"
+    },
+    "weight": 0
+  }
+}

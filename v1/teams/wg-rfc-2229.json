@@ -1,0 +1,30 @@
+{
+  "name": "wg-rfc-2229",
+  "kind": "working_group",
+  "subteam_of": "compiler",
+  "members": [
+    {
+      "name": "blitzerr",
+      "github": "blitzerr",
+      "github_id": 28721905,
+      "is_lead": true
+    },
+    {
+      "name": "Niko Matsakis",
+      "github": "nikomatsakis",
+      "github_id": 155238,
+      "is_lead": true
+    }
+  ],
+  "alumni": [],
+  "github": null,
+  "website_data": {
+    "name": "RFC 2229 working group",
+    "description": "Improving the behavior of closure-capture, and improving the documentation on closures",
+    "page": "wg-rfc-2229",
+    "email": null,
+    "repo": "https://rust-lang.github.io/compiler-team/working-groups/rfc-2229/",
+    "discord": null,
+    "weight": 0
+  }
+}

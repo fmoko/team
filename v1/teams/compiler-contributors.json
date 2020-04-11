@@ -1,0 +1,181 @@
+{
+  "name": "compiler-contributors",
+  "kind": "team",
+  "subteam_of": "compiler",
+  "members": [
+    {
+      "name": "Aaron Hill",
+      "github": "Aaron1011",
+      "github_id": 1408859,
+      "is_lead": false
+    },
+    {
+      "name": "Mazdak Farrokhzad",
+      "github": "Centril",
+      "github_id": 855702,
+      "is_lead": false
+    },
+    {
+      "name": "David Wood",
+      "github": "davidtwco",
+      "github_id": 1295100,
+      "is_lead": false
+    },
+    {
+      "name": "Dylan MacKenzie",
+      "github": "ecstatic-morse",
+      "github_id": 29463364,
+      "is_lead": false
+    },
+    {
+      "name": "Florian Diebold",
+      "github": "flodiebold",
+      "github_id": 906069,
+      "is_lead": false
+    },
+    {
+      "name": "Jonas Schievink",
+      "github": "jonas-schievink",
+      "github_id": 1786438,
+      "is_lead": false
+    },
+    {
+      "name": "Rémy Rakic",
+      "github": "lqd",
+      "github_id": 247183,
+      "is_lead": false
+    },
+    {
+      "name": "Mark Rousskov",
+      "github": "Mark-Simulacrum",
+      "github_id": 5047365,
+      "is_lead": false
+    },
+    {
+      "name": "Aleksey Kladov",
+      "github": "matklad",
+      "github_id": 1711539,
+      "is_lead": false
+    },
+    {
+      "name": "Nikita Popov",
+      "github": "nikic",
+      "github_id": 216080,
+      "is_lead": false
+    },
+    {
+      "name": "Nicholas Nethercote",
+      "github": "nnethercote",
+      "github_id": 1940286,
+      "is_lead": false
+    },
+    {
+      "name": "Alexandre Martin",
+      "github": "scalexm",
+      "github_id": 1173131,
+      "is_lead": false
+    },
+    {
+      "name": "Santiago Pastorino",
+      "github": "spastorino",
+      "github_id": 52642,
+      "is_lead": false
+    },
+    {
+      "name": "Tyler Mandry",
+      "github": "tmandry",
+      "github_id": 2280544,
+      "is_lead": false
+    },
+    {
+      "name": "Igor Matuszewski",
+      "github": "Xanewok",
+      "github_id": 3093213,
+      "is_lead": false
+    },
+    {
+      "name": "Zack M. Davis",
+      "github": "zackmdavis",
+      "github_id": 1076988,
+      "is_lead": false
+    }
+  ],
+  "alumni": [],
+  "github": {
+    "teams": [
+      {
+        "org": "rust-lang",
+        "name": "compiler-contributors",
+        "members": [
+          855702,
+          906069,
+          1940286,
+          216080,
+          1173131,
+          29463364,
+          3093213,
+          1076988,
+          52642,
+          2280544,
+          1295100,
+          5047365,
+          247183,
+          1711539,
+          1408859,
+          1786438,
+          831192,
+          20113453,
+          77424,
+          5751617,
+          679122,
+          173127,
+          3943692,
+          1606434,
+          332036,
+          155238
+        ]
+      },
+      {
+        "org": "rust-lang-nursery",
+        "name": "compiler-contributors",
+        "members": [
+          855702,
+          906069,
+          1940286,
+          216080,
+          1173131,
+          29463364,
+          3093213,
+          1076988,
+          52642,
+          2280544,
+          1295100,
+          5047365,
+          247183,
+          1711539,
+          1408859,
+          1786438,
+          831192,
+          20113453,
+          77424,
+          5751617,
+          679122,
+          173127,
+          3943692,
+          1606434,
+          332036,
+          155238
+        ]
+      }
+    ]
+  },
+  "website_data": {
+    "name": "Compiler team contributors",
+    "description": "Folks who contribute to the Rust compiler on a regular basis",
+    "page": "compiler-contributors",
+    "email": null,
+    "repo": "http://github.com/rust-lang/compiler-team",
+    "discord": null,
+    "weight": 0
+  }
+}
